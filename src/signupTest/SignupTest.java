@@ -21,8 +21,8 @@ public class SignupTest {
     public  SignupPage signupPage;
     public  EditPages editPage;
 
-    String email = "int_01@mail.com";
-    String password = "3457576545635345" ;
+    String email = "******";
+    String password = "******" ;
     String firstName = "Divya";
 
     public static void main(String[] args) {
