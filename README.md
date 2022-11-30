@@ -7,8 +7,8 @@ The tasks: The 2. One is optional for this position, but if you can manage it, i
 
 1. Selenium WebDriver:
 
-  Account: int_01@mail.com
-  Password: 3457576545635345
+  Account: *****
+  Password: ****
 
   - Go to page 'https://mail.com'
   - Login with the given account
